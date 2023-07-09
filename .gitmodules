@@ -1,0 +1,3 @@
+[submodule "unity-git-hooks"]
+	path = unity-git-hooks
+	url = https://github.com/doitian/unity-git-hooks.git
